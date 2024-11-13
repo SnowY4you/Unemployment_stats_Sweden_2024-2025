@@ -11,6 +11,7 @@ Unemployment is a critical economic indicator that affects both individuals and 
 **Methodology**
 Data was sourced from the website of Arbetsförmedlingen (Swedish Public Employment Service), which contains detailed records of unemployment statistics from 2019 to 2024. 
 For a detailed information they have premade visuals and statistics you can find here. For this analysis I have chosen to filter on: people that are signed up at Arbetsförmedlingen -> openly without a job, period between 2019-04 and 2024-09, both man and woman, age groups: 18–19, 20–24, 25–29, 30–39, 40–49, 50–59, 60–64, born in: Sweden, Europe (but not Sweden) and outside of Europe and without a job between: lesser than 6 months, between 6 and 12 months, between 12 and 24 months and longer than 24 months.
+
 The analysis involved:
 - Mapping categorical variables to numeric values for consistency.
 - Filtering and aggregating the data based on various parameters.
@@ -21,4 +22,4 @@ The analysis involved:
 - HistGradientBoostingClassifier Accuracy: 0.81
 - Best Cross-Validation Score: 0.81
 
-[My Portfolio]([https://www.example.com](https://www.svanbuggenumanalytics.com)
+[My Portfolio](https://www.svanbuggenumanalytics.com/)
